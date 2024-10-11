@@ -1,3 +1,8 @@
+# 补充
+python 3.10
+不能使用A100，不能识别CUDA 12.2
+
+
 # pix2code
 *Generating Code from a Graphical User Interface Screenshot*
 
